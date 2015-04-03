@@ -7,7 +7,7 @@ We're building a new dashboard. This concept showcases the possibilities of inco
 
 Main window
 -----
-![main(images/main.png)
+![main](images/main.png)
 
 Data visualisation
 -----
