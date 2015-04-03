@@ -71,13 +71,13 @@ ul {
   font-weight: 700;
 }
 .stats__header-name p {
-  color: #f8d0d8;
+  color: #005778;
   margin: 0;
   font-size: 18px;
 }
 .stats__header-name span {
   display: block;
-  color: white;
+  color: #FF4619;
   font-weight: 700;
   font-size: 36px;
   line-height: 0.8;
